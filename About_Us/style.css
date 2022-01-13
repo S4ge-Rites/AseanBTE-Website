@@ -30,6 +30,7 @@ p {
     0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
   padding: 20px 80px 18px 36px;
   cursor: pointer;
+  
 }
 
 .card:hover {
@@ -53,6 +54,7 @@ p {
   background-repeat: no-repeat;
   background-position: right;
   background-size: 80px;
+  
 }
 
 .card-2 {
