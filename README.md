@@ -1,6 +1,5 @@
 # ASEAN-BTE Website
-ASEAN-BTE website`(Work-In-Progress)`. currently hosted by netlify at: [asean-bte.netlify.app](https://asean-bte.netlify.app)
-> old hosting site at github.io: [asean-build-the-earth.github.io](https://asean-build-the-earth.github.io/AseanBTE-Website/)
+ASEAN-BTE website`(Work-In-Progress)`. currently hosted by netlify at: [asean.buildtheearth.asia](https://asean.buildtheearth.asia)
 
 ## About
 - This website is about [Minecraft BuildTheEarth Project](https://www.buildtheearth.net/)
@@ -38,9 +37,20 @@ See our Instragram [here](https://www.instagram.com/bte.asean/)
 
 See our Youtube [here](https://www.youtube.com/channel/UCXgXXpOh3xyuNj7PRz_tDwQ)
 
+## Contributors 
+
+<a href="https://github.com/ASEAN-Build-The-Earth/AseanBTE-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ASEAN-Build-The-Earth/AseanBTE-Website" />
+</a>
+
 ---
 <h2 align="center">
     <p>
         Also dont forget to star this repo :> 🌟
     </p>
 </h2>
+
+
+
+## License
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/ASEAN-Build-The-Earth/AseanBTE-Website">ASEAN WEBPAGE</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/StoneMcYT">StoneMc</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p> 
